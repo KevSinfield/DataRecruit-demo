@@ -1,7 +1,7 @@
 # DataRecruit concept demo
 
-Fictional data and a simulated assistant. No accounts connected, no messages sent, and changes reset on reload. This repository contains only the compiled demo. It is publicly accessible.
+Fictional data and a simulated assistant. No accounts connected, no messages sent. Imported records stay in memory and disappear on refresh. Publicly accessible compiled demo only.
 
-Built from private source checkpoint a2fb20a with a deployment-only hash router and /DataRecruit-demo/ asset base for GitHub Pages. Source code, project documents, historical PDFs, recordings and portrait images are excluded. Brand remains a working concept.
+Built from private source checkpoint af3b97d: approved record-list designs and CSV import/export through DEMO-IMPORT-019. All 617 source tests, lint, types and build passed. Deployment uses a hash router and /DataRecruit-demo/ asset base for GitHub Pages.
 
-Updated with approved DEMO-DESIGN-016 and DEMO-DESIGN-017 (Candidates, Jobs, Clients and Placements). Private source changes were not committed by this deployment. All 567 source tests passed in the isolated release copy before the deployment-only routing adjustment.
+Source code, project documents, screenshots, historical PDFs, recordings and portrait images are excluded. Brand remains a working concept.
